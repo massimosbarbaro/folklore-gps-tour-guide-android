@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Krivapete Tour Guide: GPS and map tour of folklore sites (MIT App Inventor (Android), 2020)"
+version: "1.0 (2)"
+abstract: "A tour guide to the places linked to the Krivapete, the women with backward-turned feet of the folk tradition of a Slovene-speaking valley area. A map shows the sites; for each site a character tells, in first person and in the local Slovene dialect with Italian translation, the legend tied to that place. The app measures the distance from the user, opens navigation to the site and lets the visitor take and browse photos."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+repository-code: "https://github.com/massimosbarbaro/folklore-gps-tour-guide-appinventor"
+keywords:
+  - "MIT App Inventor"
+  - "Android"
+  - "GPS"
+  - "maps"
+  - "folklore"
+  - "cultural tourism"
+  - "Slovene dialect"
